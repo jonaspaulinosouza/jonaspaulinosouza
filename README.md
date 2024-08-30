@@ -1,9 +1,19 @@
 <h1 align="center">Oi 👋, Eu sou o Jonas</h1>
 <h3 align="center">Biólogo e apaixonado por Ciência e Tecnologia</h3>
 
-- 🔭 Estou atualmente trabalhando com pesquisa científica **em um projeto de Doutorado**
+Sou um profissional com experiência nas áreas de pesquisa cientifica, me especializando
+atualmente na área de Análise de dados.
 
-- 🌱 Estou atualmente aprendendo **Python e Machine Learning**
+Durante minha experiência profissional pude realizar atividades como:
+● Analise de dados
+● Elaboração de relatórios
+● Elaboração de artigos científicos
+
+Tenho conhecimento nas ferramentas: Python para analise de dados/Machine learning; SQL para consulta a banco de dados; Excel.
+
+Possuo Inglês nível Intermediário.
+
+Sou formado em Ciências Biológicas pela Universidade Federal de São Carlos e possuo Mestrado em Genética Evolutiva e Biologia Molecular pela mesma instituição e atualmente Doutorando em Biotecnologia pela Unesp.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
