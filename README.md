@@ -15,6 +15,8 @@ Possuo Inglês nível Intermediário.
 
 Sou formado em Ciências Biológicas pela Universidade Federal de São Carlos e possuo Mestrado em Genética Evolutiva e Biologia Molecular pela mesma instituição e atualmente Doutorando em Biotecnologia pela Unesp.
 
+Email: jpsouza1811@gmail.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jonas-paulino-6a444152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jonas-paulino-6a444152" height="30" width="40" /></a>
